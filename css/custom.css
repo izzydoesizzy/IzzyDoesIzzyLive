@@ -2,3 +2,7 @@
 	border-radius: 360px;
 	width: 20rem;
 }
+
+.popup-modal .link-box a {
+	width: 100%;
+}
