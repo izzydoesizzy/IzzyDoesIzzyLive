@@ -6,3 +6,19 @@
 .popup-modal .link-box a {
 	width: 100%;
 }
+
+.skill-bars li {
+    background: none;
+}
+
+.intro-content h1 {
+    margin-bottom: 3rem;
+}
+
+.intro-overlay {
+    opacity: .6;
+}
+
+.text-justify {
+  text-align: justify;
+}
